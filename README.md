@@ -16,6 +16,8 @@ Using 8051 input pins you can control:  Proportional Kp, Derivative Kd and integ
 I wrote this code for a project on University of Prishtina.
 This code is completed but you can add way much more.
 
+NOTE: I started adding modbus but I didn't have enough time to finish it because of work and studies, so feel free to do it!
+
 Feel free to ask all sort of questions you need!
 
 Ejup Hoxha
